@@ -5,13 +5,12 @@ import { getStorage } from 'firebase/storage';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDJxsjgMOy8vyBu-DZsohMKlLtP6NyRFS8",
-  authDomain: "smokeville-restaurant-af2fa.firebaseapp.com",
-  projectId: "smokeville-restaurant-af2fa",
-  storageBucket: "smokeville-restaurant-af2fa.firebasestorage.app",
-  messagingSenderId: "890057713085",
-  appId: "1:890057713085:web:a0bb922e58742fef6bded4",
-  measurementId: "G-JCV4SCCB4Q"
+  apiKey: "YOUR_ACTUAL_API_KEY",
+  authDomain: "your-project.firebaseapp.com",
+  projectId: "your-project-id",
+  storageBucket: "your-project.appspot.com",
+  messagingSenderId: "123456789",
+  appId: "1:123456789:web:abcdef123456"
 };
 
 // Initialize Firebase
